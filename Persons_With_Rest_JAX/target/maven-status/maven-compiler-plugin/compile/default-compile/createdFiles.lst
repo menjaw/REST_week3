@@ -1,0 +1,9 @@
+control\GenerateSchema.class
+interfaces\PersonInterface.class
+control\Main.class
+eu\websen\persons_with_rest_jax\PersonResource.class
+domain\Facade.class
+Entity\Person_.class
+Entity\Person.class
+control\HardCodeData.class
+eu\websen\persons_with_rest_jax\ApplicationConfig.class
