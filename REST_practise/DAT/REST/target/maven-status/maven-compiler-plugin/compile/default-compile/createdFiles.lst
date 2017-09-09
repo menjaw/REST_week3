@@ -1,0 +1,5 @@
+entity\Person.class
+interfaces\PersonInterface.class
+domain\Facade.class
+rest\PersonResource.class
+rest\ApplicationConfig.class
